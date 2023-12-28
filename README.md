@@ -37,19 +37,7 @@ Un programa que simule el juego de generala, entre 3 y 5 jugadores.
 Para ello se deberá:
 1) Solicitar al usuario que ingrese la cantidad de jugadores.
 2) Crear una matriz de acuerdo a esa cantidad para poder almacenar el resultado de cada
-jugada para cada jugador, ejemplo
-J1 J2 J3
-1
-2
-3
-4
-5
-6
-E
-F
-P
-G
-DG
+jugada para cada jugador.
 3) Crear una función denominada “int tirar(int juego[])” que SIMULE una tirada de datos
 de forma aleatoria y retorne como parámetro un vector con los 5 resultados y en el
 nombre de la función un entero que indique si el resultado obtenido de los datos fue
